@@ -1,5 +1,7 @@
 matplotlib>=3.3
 numpy>=1.22
+scipy
+sckit-learn
 pillow
 shapely
 figurefirst
